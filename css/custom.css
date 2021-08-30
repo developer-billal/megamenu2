@@ -1,0 +1,177 @@
+/*Custom css start from here*/
+.hero{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.705), rgba(0, 0, 0, 0.835)), url('../img/hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin-top: 10px;
+    height: 520px;
+}
+.hero h1{
+    text-align: center;
+    padding-top: 130px;
+    color: #fff;
+    width: 80%;
+    font-size: 46px;
+    padding-left: 15%;
+}
+.hero button{
+    margin-left: 45%;
+    text-transform: uppercase;
+    background: #74D3E2;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: 0px solid #000;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.hero button:hover{
+    background: #444749;
+}
+.journey{
+    display: block;
+    background: #0B7385;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+.journey h1{
+    display: inline-block;
+    cursor: pointer;
+}
+.journey i{
+    font-size: 28px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+.home_flowers{
+    display: block;
+    
+}
+.home_flowers_title{
+    padding: 20px;
+    text-align: center;
+    
+}
+.home_flowers_title h1{
+    font-size: 42px;
+    text-transform: uppercase;
+}
+.flowers_box_left{
+    width: 48%;
+    float: left;
+    margin: 20px 10px 15px 10px;
+}
+.flowers_box_left h1{
+    color: blue;
+    padding: 10px;
+    float: left;
+    cursor: pointer;
+}
+.flowers_box_left button{
+    margin-top: 20px;
+    color: #444749;
+    font-size: 26px;
+    border: 0px solid #000;
+    cursor: pointer;
+}
+.flowers_box_left img{
+    border-bottom: 10px solid blue;
+    width: 100%;
+    
+}
+.flowers_box_right{
+    width: 48%;
+    float: left;
+    margin: 20px 10px 15px 10px;
+}
+.flowers_box_right h1{
+    color: aqua;
+    padding: 10px;
+    float: left;
+    cursor: pointer;
+}
+.flowers_box_right button{
+    margin-top: 20px;
+    color: #444749;
+    font-size: 26px;
+    border: 0px solid #000;
+    cursor: pointer;
+}
+.flowers_box_right img{
+    border-bottom: 10px solid aqua;
+    width: 100%;
+    
+}
+.offers{
+    background-image: url(../img/home_offer.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-top: 500px;
+    width: 100%;
+    height: 540px;
+}
+.offer_box{
+    display: inline-block;
+}
+.offer_box h1{
+    color: red;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 30px;
+    margin-left: 480px;
+    margin-bottom: 30px;
+}
+.offer_box img{
+    padding-left: 50px;
+}
+.awrd_post{
+    display: block;
+    text-align: center;
+}
+.award{
+    display: block;
+    background-image: url(../img/home_award.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 520px;
+    margin-top: 40px;
+}
+.award_post h1{
+    text-align: center;
+    padding-top: 36px;
+}
+.award_icons{
+    text-align: center;
+    padding: 100px 30px;
+}
+.award_icons i{
+    font-size: 156px;
+    color: greenyellow;
+    padding: 10px 40px;
+    cursor: pointer;
+}
+.award_icons i:hover{
+    color: blue;
+}
+.award_icons h1, .award_icons h3{
+    cursor: pointer;
+    color: #fff;
+}
+.award_icons h1{
+    font-size: 56px;
+}
+.award_icons h1:hover{
+    color: aqua;
+}
+.award_icons h3{
+    font-size: 46px;
+    padding-bottom: 30px;
+}
+.award_icons h3:hover{
+    color: red;
+}
+/*Custom css End from here*/
